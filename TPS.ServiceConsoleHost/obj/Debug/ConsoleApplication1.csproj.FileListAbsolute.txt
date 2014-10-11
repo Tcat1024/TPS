@@ -1,0 +1,7 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.Service.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.Service.pdb

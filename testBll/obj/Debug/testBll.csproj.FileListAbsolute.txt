@@ -1,0 +1,9 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testBll\bin\Debug\testBll.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testBll\bin\Debug\testBll.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testBll\obj\Debug\testBll.csprojResolveAssemblyReference.cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testBll\obj\Debug\testBll.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testBll\obj\Debug\testBll.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testBll\bin\Debug\testBll.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testBll\bin\Debug\testBll.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testBll\obj\Debug\testBll.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testBll\obj\Debug\testBll.pdb

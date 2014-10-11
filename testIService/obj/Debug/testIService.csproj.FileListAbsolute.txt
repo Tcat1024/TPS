@@ -1,0 +1,9 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testIService\bin\Debug\testIService.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testIService\bin\Debug\testIService.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testIService\obj\Debug\testIService.csprojResolveAssemblyReference.cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testIService\obj\Debug\testIService.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\AppDomainTest\testIService\obj\Debug\testIService.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testIService\bin\Debug\testIService.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testIService\bin\Debug\testIService.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testIService\obj\Debug\testIService.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\WCF双工\AppDomainTest\testIService\obj\Debug\testIService.pdb

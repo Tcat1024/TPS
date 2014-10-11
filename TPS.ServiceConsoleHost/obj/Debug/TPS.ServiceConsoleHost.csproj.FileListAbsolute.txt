@@ -1,0 +1,8 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.ServiceConsoleHost.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.ServiceConsoleHost.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.Service.dll
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.Service.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\obj\Debug\TPS.ServiceConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\obj\Debug\TPS.ServiceConsoleHost.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\obj\Debug\TPS.ServiceConsoleHost.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\TPS\ConsoleApplication1\bin\Debug\TPS.ServiceConsoleHost.exe.config
